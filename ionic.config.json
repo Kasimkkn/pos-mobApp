@@ -1,0 +1,7 @@
+{
+  "name": "posSystem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
